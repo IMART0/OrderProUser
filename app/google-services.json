@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686578523746",
+    "project_id": "orderprouser",
+    "storage_bucket": "orderprouser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686578523746:android:5ff8f83ad6d18fb830bb3b",
+        "android_client_info": {
+          "package_name": "am.martirosyan.orderprouser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoQHyyM0-R46ipxpmJi2p6IgxRcDH22zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
